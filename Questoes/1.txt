@@ -1,0 +1,12 @@
+1. Sistemas embarcados são sistemas inteligentes construídos para uma aplicação específica, isto é,
+   são sistemas que possuem unidades lógicas, microprocessadas ou não, atuando sobre atuadores inte-
+   grados a um sistema com entradas e saídas.
+
+2. Sistemas microprocessados são sistemas cuja eletrônica digital baseia-se em microprocessadores, os
+quais são responsáveis principalmente por gerenciar, processar e enviar aos atuadores do sistema dados 
+digitais.
+
+3. (a) Computadores de bordo e central multimídia. (b) Controle de ações de uma geladeira/Sistemas de 
+som portáteis. (c) Controles de máquinas e robôs/ Controle de qualidade / Gerenciador de tarefas.
+
+4.
