@@ -1,0 +1,5 @@
+https://www.khronos.org/registry/OpenGL-Refpages/gl4//
+https://www.youtube.com/watch?v=6u1FkksyNCk
+http://www.videotutorialsrock.com/opengl_tutorial/basics/home.php
+
+gcc linha_opengl.c -o teste -lGL -lglut -lm
